@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
+Version 2
+
 icon_tool.py — SVG colorizer + PNG exporter for hierarchical icon sets
 ----------------------------------------------------------------------
-Dependency: pip install cairosvg
+Dependency: cairosvg
 
 Output structure
 ----------------
